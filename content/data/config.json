@@ -1,35 +1,6 @@
 {
     "type": "Config",
     "favicon": "/images/favicon.svg",
-    "header": {
-        "type": "Header",
-        "headerVariant": "variant-c",
-        "isSticky": false,
-        "title": "akiko",
-        "isTitleVisible": true,
-        "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/akikodotxyz",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/akikodotx",
-                "icon": "github"
-            }
-        ],
-        "styles": {
-            "self": {
-                "width": "full"
-            }
-        }
-    },
     "footer": {
         "type": "Footer",
         "primaryLinks": [
