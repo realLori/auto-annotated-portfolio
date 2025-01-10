@@ -125,6 +125,17 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    styles:
+      self:
+        width: full
+        padding:
+          - pt-36
+          - pb-36
+        justifyContent: center
+        borderWidth: 1
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -191,15 +202,4 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    styles:
-      self:
-        width: full
-        padding:
-          - pt-36
-          - pb-36
-        justifyContent: center
-        borderWidth: 1
 ---
